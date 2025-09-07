@@ -1,4 +1,3 @@
-# Banking-Risk-Analytics-
 # Banking Risk Analytics Platform
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
